@@ -31,5 +31,5 @@
 
 ##
 
-![Snake animation] (https://github.com/Kassemsan01/Kassemsan01/blob/output/github-contribution-grid-snake.svg)
+![Snake animation] (https://github.com/Kassemsan01)
 
