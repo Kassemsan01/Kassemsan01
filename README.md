@@ -1,4 +1,14 @@
-### Olá! Eu sou o Kassem Santos 👋
+
+<div align = "center">
+  <img src="https://media.tenor.com/cX92mi1p-NYAAAAM/coding-anime.gif" width = 200>
+</div>
+
+
+<div align = "center">
+  <h2>Olá 👋</h2> 
+  <h2> Sejam todos muito bem-vindos </h2>
+
+</div>
 
 
 ##
