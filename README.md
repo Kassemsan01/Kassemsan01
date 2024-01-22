@@ -29,6 +29,9 @@
   <img align="center" alt="Kassem-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Kassem-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kassem-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+  <img align="center" alt="Kassem-Java" height="30" width="40" src="https://github.com/Kassemsan01/Kassemsan01/assets/99700783/f86f390a-cfe8-4869-8d6d-5977e6bc3728">
+  <img align="center" alt="Kassem-PHP" height="30" width="35" src="https://github.com/Kassemsan01/Kassemsan01/assets/99700783/3a89a892-d307-4d26-b705-84d9bcec18c6">
+
 </div>
 
 ##
