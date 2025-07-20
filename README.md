@@ -13,8 +13,6 @@
 
 ##
 
-<h2>Eu sou o kassem santos</h2>
-
 <div>
   <a href="https://github.com/Kassemsan01">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Kassemsan01&rank_icon=github&theme=dracula" />
